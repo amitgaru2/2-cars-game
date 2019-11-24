@@ -8,4 +8,8 @@ Use key 'A' and 'D' to control left car.
 
 Note: Use turbo c compiler to run the program with all graphics library loaded.
 
+
+## Demo
+![demo](https://github.com/arneec/2-cars-game/blob/master/demo/demo.gif)
+
 !!!!!!!!!!!!!!!!!!!!!!!!!! Enjoy !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
